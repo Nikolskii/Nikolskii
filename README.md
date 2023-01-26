@@ -28,7 +28,7 @@
 
 ## Для связи со мной:
 
-[![E-mail](https://img.shields.io/badge/E--mail-ffffff?style=for-the-badge)](mailto:denis-nikolskii@ya.ru)
+### E-mail: [denis-nikolskii@ya.ru](mailto:denis-nikolskii@ya.ru)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/denisqa_n)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/denisqa_n/)
 
