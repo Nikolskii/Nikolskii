@@ -32,4 +32,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/denisqa_n)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/denisqa_n/)
 
+## Избранные работы:
+[«Mesto»](https://github.com/Nikolskii/react-mesto-api-full) – React-приложение с возможностью регистрации, редактирования профиля, добавления и удаления фотокарточек.  
+[«Путешествия по России»](https://github.com/Nikolskii/russian-travel) – адаптивный одностраничный информационный сайт о путешествиях по стране.  
+[«Научиться учиться»](https://github.com/Nikolskii/how-to-learn) – неадаптивный одностраничный информационный сайт про современные и эффективные подходы к обучению.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolskii)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolskii)](https://github.com/anuraghazra/github-readme-stats)
