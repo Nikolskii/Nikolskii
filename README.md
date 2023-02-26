@@ -20,6 +20,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Избранные работы:
+[«Movies-explorer»](https://github.com/Nikolskii/movies-explorer-frontend) – React-приложение с возможностью поиска и сохранения карточек кино, регистрации и редактирования профиля.  
 [«Mesto»](https://github.com/Nikolskii/react-mesto-api-full) – React-приложение с возможностью регистрации, редактирования профиля, добавления и удаления фотокарточек.  
 [«Путешествия по России»](https://github.com/Nikolskii/russian-travel) – адаптивный одностраничный информационный сайт о путешествиях по стране.  
 [«Научиться учиться»](https://github.com/Nikolskii/how-to-learn) – неадаптивный одностраничный информационный сайт про современные и эффективные подходы к обучению.
