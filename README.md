@@ -30,3 +30,7 @@
 [«Путешествия по России»](https://github.com/Nikolskii/russian-travel) – адаптивный одностраничный информационный сайт о путешествиях по стране.  
 
 [«Научиться учиться»](https://github.com/Nikolskii/how-to-learn) – неадаптивный одностраничный информационный сайт про современные и эффективные подходы к обучению.
+
+## Резюме:
+[PDF-файл](https://career.habr.com/denis-nikolskii/print.pdf)  
+[Профиль Хабр Карьера](https://career.habr.com/denis-nikolskii)  
