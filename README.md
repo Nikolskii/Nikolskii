@@ -31,5 +31,4 @@
 [«Научиться учиться»](https://github.com/Nikolskii/how-to-learn) – неадаптивный одностраничный информационный сайт про современные и эффективные подходы к обучению.
 
 ## Резюме
-[PDF-файл](https://disk.yandex.ru/i/h28DFfgblIH3aQ)  
 [Профиль Хабр Карьера](https://career.habr.com/denis-nikolskii)  
